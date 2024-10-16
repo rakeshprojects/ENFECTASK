@@ -1,0 +1,3 @@
+
+rootProject.name = "TaskENFC"
+include ':app'
